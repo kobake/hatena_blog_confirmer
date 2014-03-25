@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "NengoReplacer", "NengoReplacer.phpproj", "{6DB6170A-19A9-49B5-A055-5BAA4A9D0D6D}"
+Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "HatenaBlogConfirmer", "HatenaBlogConfirmer.phpproj", "{6DB6170A-19A9-49B5-A055-5BAA4A9D0D6D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

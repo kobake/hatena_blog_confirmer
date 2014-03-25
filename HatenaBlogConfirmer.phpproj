@@ -23,9 +23,6 @@
     <IncludeDebugInformation>false</IncludeDebugInformation>
   </PropertyGroup>
   <ItemGroup>
-    <Content Include="background.html">
-      <SubType>Content</SubType>
-    </Content>
     <Content Include="icon.png">
       <SubType>Content</SubType>
     </Content>
@@ -48,18 +45,6 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="manifest.json">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="options.html">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="popup.html">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="sample.html">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="test.html">
       <SubType>Content</SubType>
     </Content>
   </ItemGroup>
