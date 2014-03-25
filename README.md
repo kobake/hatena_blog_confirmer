@@ -8,7 +8,7 @@
 はてなブログに投稿するときに確認ダイアログを表示します。
 間違えて「投稿」ボタンを押して不本意に投稿してしまうことを防ぎます。
 
-![スクリーンショット](https://lh4.googleusercontent.com/93UDpKpdX6w2oUaUdD7se1r_N3-nGvMLaY6a6Y6mAHzVHPAmvUQmirPwPjvRipNHz7Baa7Cjzw=s640-h400-e365-rw "スクリーンショット")
+![スクリーンショット](https://raw.githubusercontent.com/kobake/hatena_blog_confirmer/master/screen_shot/screenshot_640_400.png "スクリーンショット")
 
 インストール
 ------------
