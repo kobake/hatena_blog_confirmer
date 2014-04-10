@@ -26,25 +26,16 @@
     <Content Include="icon.png">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="js\background.js">
-      <SubType>Content</SubType>
-    </Content>
     <Content Include="js\content.js">
       <SubType>Content</SubType>
     </Content>
     <Content Include="js\jquery-1.9.0.min.js">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="js\nengo.js">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="js\options.js">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="js\popup.js">
-      <SubType>Content</SubType>
-    </Content>
     <Content Include="manifest.json">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="README.md">
       <SubType>Content</SubType>
     </Content>
   </ItemGroup>

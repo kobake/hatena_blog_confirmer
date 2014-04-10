@@ -1,6 +1,6 @@
 $(function () {
     if (!chrome.extension) return;
-    $('#submit-button').on("click", function (event) {
+    $('#editor-main #submit-button').on("click", function (event) {
         // ランダムキー生成
         var key = '';
         var a = 'abcdefghijklmnopqrstuvwxyz'.split('');

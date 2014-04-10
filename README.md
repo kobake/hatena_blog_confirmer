@@ -13,3 +13,8 @@
 インストール
 ------------
 [Chrome ウェブストア - はてなブログ投稿確認](https://chrome.google.com/webstore/detail/%E3%81%AF%E3%81%A6%E3%81%AA%E3%83%96%E3%83%AD%E3%82%B0%E6%8A%95%E7%A8%BF%E7%A2%BA%E8%AA%8D/ilkijignhlmdhnmlhichnampjpdjibpl/related?hl=ja&gl=JP)
+
+履歴
+------------
+- ver1.0.1 (2014.04.10) … はてなブックマークボタンにも反応してしまう問題を修正
+- ver1.0.0 (2014.03.25) … 公開
