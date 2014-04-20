@@ -8,7 +8,13 @@ $(function () {
             key += a[Math.floor(Math.random() * a.length)];
         }
         // キー確認
-        input_key = window.prompt("はてなブログに投稿します。\n確認コード「" + key + "」を入力してください", "");
+        input_key = window.prompt(
+            "はてなブログに投稿します。\n"
+            + "\n"
+            + "・パーマリンク設定は大丈夫ですか？\n"
+            + "・カテゴリ設定は大丈夫ですか？\n"
+            + "\n"
+            + "よろしければ確認コード「" + key + "」を入力してください", "");
         // 問題なければ投稿
         if (key == input_key) {
             alert("投稿を行います。");
