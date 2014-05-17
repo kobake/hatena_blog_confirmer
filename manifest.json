@@ -10,6 +10,10 @@
   "content_security_policy": "script-src 'self'; object-src 'self'",
   "permissions": [
   ],
+  "web_accessible_resources": [
+    "js/jquery-2.0.3.min.js",
+    "js/jquery-2.0.3.min.map"
+  ],
   "content_scripts": [
     {
       "matches": [
@@ -18,7 +22,7 @@
         "http://*.hatena.ne.jp/*",
         "http://*.hatenablog.com/*"
       ],
-      "js": [ "js/jquery-1.9.0.min.js", "js/content.js" ],
+      "js": [ "js/jquery-2.0.3.min.js", "js/content.js" ],
       "run_at": "document_end",
       "all_frames": true
     }
